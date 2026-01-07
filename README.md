@@ -1,4 +1,4 @@
-# Khangmate 
+# Khangmate - House Rental App for Bhutan  
 
 Khangmate App is a Bhutan-focused house rental application that allows users to list rental houses with pinned map locations and helps renters discover available homes across Bhutan with an interactive map.
 
