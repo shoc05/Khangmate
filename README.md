@@ -9,15 +9,12 @@ Khangmate App is a Bhutan-focused house rental application that allows users to 
 * [Overview](#overview)
 * [Key Features](#key-features)
 * [Tech Stack](#tech-stack)
-* [Folder Structure](#folder-structure)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Feature Table](#feature-table)
 * [Flow Diagrams](#flow-diagrams)
 * [Legend](#legend)
-* [Screenshots](#screenshots)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ---
 
