@@ -56,19 +56,6 @@ Key advantages:
 
 ---
 
-## Folder Structure
-Khangmate/
-│
-├── android/ # Android project files
-├── ios/ # iOS project files
-├── assets/ # Images, fonts, icons, screenshots
-├── lib/ # Flutter app source code
-├── test/ # Unit & widget tests
-├── web/ # Web version of the app
-├── README.md # Project documentation
-└── Khangmate2.zip # Project archive
----
-
 ## Installation
 
 ### Prerequisites
